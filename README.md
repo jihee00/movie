@@ -1,6 +1,6 @@
 # Movie-app✨
 > This project is a website using API provided by [The Movie DB](https://www.themoviedb.org/).
-> Project Link: https://fathomless-ravine-00136.herokuapp.com/
+>> Project Link: https://fathomless-ravine-00136.herokuapp.com/
 
 ## Tech/ framework used⚙️
 - Node.js
