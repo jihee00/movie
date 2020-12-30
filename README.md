@@ -1,7 +1,7 @@
 # Movie-app✨
 >  This project is a website using API provided by [The Movie DB](https://www.themoviedb.org/).
 
-## Tech/framework used⚙️
+## Tech/ framework used⚙️
 - Node.js
 - Express
 - React
